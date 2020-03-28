@@ -1,1 +1,1 @@
-run = "npx babel-node index.js"
+run = "node index.js"
